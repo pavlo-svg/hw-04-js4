@@ -1,0 +1,22 @@
+{
+  "name": "hw-04-js4",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlo-svg/hw-04-js4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pavlo-svg/hw-04-js4/issues"
+  },
+  "homepage": "https://github.com/pavlo-svg/hw-04-js4#readme"
+}
